@@ -30,7 +30,6 @@ A engenharia deu-me a estrutura mental; o digital deu-me a velocidade. Aqui est�
 | **Gestão & Fluxo de Trabalho** | Trello, Planeamento de Cronogramas, Metodologias Ágeis |
 | **Análise de Dados & Lógica** | Excel Avançado (Dimensionamento e Modelagem), Pensamento Crítico |
 | **Produtividade & IA** | Engenharia de Prompts (ChatGPT/Gemini para otimização de tarefas), Notion |
-| **Web & Design (Tech)** | Conceito de Interface (UX/UI), HTML5, CSS3 básicos |
 
 ---
 
